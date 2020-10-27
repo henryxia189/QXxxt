@@ -10,7 +10,7 @@
   line-height:normal;
   text-transform:none;
 }
-.shape {
+.box_3 {
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -53,32 +53,12 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 .paragraph {
   text-align:left;
-}
-.line {
 }
 .form_hint {
   color:#999999;
 }
 .form_disabled {
-}
-.flow_shape {
-}
-._默认样式 {
-}
-.image {
-}
-.box_1 {
-}
-.box_2 {
-}
-.ellipse {
-}
-.box_3 {
 }
 textarea, select, input, button { outline: none; }
